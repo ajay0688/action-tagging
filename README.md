@@ -41,7 +41,7 @@ This order is important!
 
 # Configuration
 
-To make happen tag creation GITHUB_TOKEN need to be pass in as env variable.
+To create tags, GITHUB_TOKEN need to be passed in as env variable.
 
 NEVER HARD CODE THE SECRET in YAML FILE.
 
